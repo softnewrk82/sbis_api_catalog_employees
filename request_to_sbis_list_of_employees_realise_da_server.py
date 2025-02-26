@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from airflow import DAG
 from airflow.utils.dates import days_ago
 from datetime import timedelta
